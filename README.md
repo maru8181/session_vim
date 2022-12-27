@@ -1,1 +1,1 @@
-"# session_vim" 
+# session_vim
